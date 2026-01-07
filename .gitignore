@@ -8,6 +8,7 @@ output_prompts.csv
 *.ipynb
 __pycache__/
 .env
+.ipynb_checkpoints
 
 #Deprecated efforts
 deprecated
