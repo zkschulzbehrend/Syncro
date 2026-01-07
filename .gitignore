@@ -8,3 +8,6 @@ output_prompts.csv
 *.ipynb
 __pycache__/
 .env
+
+#Deprecated efforts
+deprecated
